@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Rapid Demos
+* [Rapid Demos](rapid_demos.md)
 
