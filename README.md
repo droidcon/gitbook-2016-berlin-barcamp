@@ -8,4 +8,4 @@ The first day of Droidcon Berlin is traditionally a [barcamp](http://barcamp.org
 
 To make the barcamp more sustainable, this booklet contains summaries, links, and resources about the sessions.
 
-Thank you to all contributes! See the list at [Github](https://github.com/droidcon/gitbook-2016-berlin-barcamp/network/members).
+Thank you to all contributors! See the list at [Github](https://github.com/droidcon/gitbook-2016-berlin-barcamp/network/members).
