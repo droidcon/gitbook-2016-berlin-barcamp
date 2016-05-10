@@ -2,8 +2,8 @@
 
 Time | Stage 1 | Stage 2 | Stage 3 | Workshop
 -----|--------|---------|---------|---------|---------
-10:00  | Welcome and Session Planning | - | - | -
-11:00  | [App World Cafe](app_world_cafe.md)| - | - | -
+10:00  | Welcome, [App World Cafe](app_world_cafe.md) and Session Planning | - | - | -
+11:00  | |  |  | 
 11:30  | | | | 
 12:00  | | | | 
 12:30  | | | | 
