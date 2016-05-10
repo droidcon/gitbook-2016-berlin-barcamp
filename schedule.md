@@ -1,4 +1,4 @@
-#Schedule
+#Schedule 15 June 2016
 
 Time | Stage 1 | Stage 2 | Stage 3 | Workshop
 -----|--------|---------|---------|---------|---------
