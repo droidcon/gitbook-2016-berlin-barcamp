@@ -17,4 +17,4 @@ Time | Stage 1 | Stage 2 |  Workshop |
 16:30  | [Rapid Demo Session](rapid_demos.md)| - |  
 17:00  | Barcamp Closing        | - | - 
 
-The Mobility Area is available during the whole day.
+The [Mobility Area](area_mobility.md) is available during the whole day.
