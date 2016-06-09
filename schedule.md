@@ -1,6 +1,6 @@
 #Schedule 15 June 2016
 
-Time | Stage 1 | Stage 2 |  Workshop
+Time | Stage 1 | Stage 2 |  Workshop | 
 -----|--------|---------|---------|---------
 10:00  | Welcome, [App World Cafe](app_world_cafe.md) and Session Planning | - | -
 11:00  | | |  
@@ -16,3 +16,5 @@ Time | Stage 1 | Stage 2 |  Workshop
 16:00  | | |  
 16:30  | [Rapid Demo Session](rapid_demos.md)| - |  
 17:00  | Barcamp Closing        | - | - 
+
+The Mobility Area is available during the whole day.
