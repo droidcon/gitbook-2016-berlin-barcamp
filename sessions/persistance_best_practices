@@ -18,8 +18,9 @@
   - no compile time checks
   - manual schema updates
   - maintanance 
-  - sql is another language
-  - sql can get so long
+  - SQL is another language
+  - SQL can get so long
+  - testality
   
   ORMs
   ====
@@ -33,6 +34,17 @@
   + no compile time checks
   + sql is another language
   + sql can get so long
+  - another lib you have to learn
+  - potentially performance decrease
+  
+  NoSQL
+  =====
+  * Users: about 4%
+  
+  +no orm 
+  + rx support
+  + docs
+  + tools 
   
   
   
