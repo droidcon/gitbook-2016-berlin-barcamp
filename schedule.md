@@ -9,7 +9,7 @@ Time | Stage 1 | Stage 2 | Room 3 |  Workshop |
 12:30  | [15 tips to improve your unit tests](sessions/unit_tests_danny_preussler.md)| [Multi Window](sessions/multiwindow_supports.md)|| 
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:30  | BREAK     | BREAK | BREAK | BREAK 
-14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|Sec. Dev. & Rock'n'Roll - Talking about security|[Android App Inventor](app_inventor.md)| [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
+14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|[Sec. Dev. & Rock'n'Roll - Talking about security] (sessions/sec_dev_rock_roll.md)|[Android App Inventor](app_inventor.md)| [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
 14:30  | [Android Studio productivity - lessons learned](android_studio.md)||[Android App Inventor](app_inventor.md)|-|  
 15:00  | [Internet of Things - still hot?](iot.md)| | |
 15:30  | [User Testing](user_testing.md)| | |
