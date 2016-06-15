@@ -11,7 +11,12 @@ Slides: [15 tips to improve your unit tests](Unittesting_tipps_preussler.pdf)
 
 # References
 
+**SuperReflect** is a very simple fluent API that gives access to your Java Class structures in a more intuitive way. The JDK's reflection APIs are hard and verbose to use. This is a fork by Danny.
+
 https://github.com/dpreussler/SuperReflect
+
+**BoundBox** provides an easy way to test an object by accessing all its fields, constructor and methods, public or not. BoundBox breaks encapsulation.
+
 https://github.com/stephanenicolas/boundbox
 
 # Feedback
