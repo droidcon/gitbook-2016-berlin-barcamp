@@ -3,10 +3,10 @@
 Time | Stage 1 | Stage 2 | Room 3 |  Workshop | 
 -----|--------|---------|---------|---------
 10:00  | Welcome, [App World Cafe](app_world_cafe.md) and Session Planning | - |  | 10:30 [Cognitive APIs, Emotions - 2.5h](microsoft_workshop1.md)
-11:00  | [Say Kotlin one more time](sessions/kotlin.md)| [Photoshperes](sessions/photosphere_bodemann.md) | |  
+11:00  | [Say Kotlin one more time](./sessions/kotlin_hendrik_kokocinski.md)| [Photoshperes](./sessions/photosphere_bodemann.md) | |  
 11:30  | [Toothpick & dependency injection](sessions/toothpick.md)| OR Mapper | | 
 12:00  | [Toothpick & dependency injection](sessions/toothpick.md)| Persistence Best Practice || 
-12:30  | [15 tips to improve your unit tests](sessions/unit_tests.md)| Multi Window | |  
+12:30  | [15 tips to improve your unit tests](./sessions/unit_tests_danny_preussler.md)| Multi Window | |  
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:30  | BREAK     | BREAK | BREAK | BREAK 
 14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|  || [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
