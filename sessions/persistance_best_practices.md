@@ -1,11 +1,10 @@
 ##Persistance best practices
 ### Speaker: Markus Junginger 
 
--What do you do with Persistance?
 
-###SQLite
+####SQLite
   
-   Users: 40%
+  + Users in the audience: 40%
    
 Positive:
   + Toolchain, DB browser
@@ -25,11 +24,11 @@ Negative:
   - SQL is another language
   - SQL can get so long
   - testality
-  
- ###ORMs
 
-  + Objects Related Mapper
-  + Users: 10%
+####ORMs
+
+  + Objects Relational Mapper
+  + Users in the audience: 10%
   
   + Examples: greenDAO, DBflow, ORMlite
 
@@ -44,14 +43,15 @@ Negative:
   - another lib you have to learn
   - potentially performance decrease
   
-###NoSQL
-  + Users: about 4%
+
+####NoSQL
+  + Users in the audience: 4%
   
 Positive: 
-  + no orm 
-  + rx support
-  + docs
-  + tools 
+  + No ORM 
+  + RX support
+  + Nice docs
+  + Nice tools 
   
   
   
