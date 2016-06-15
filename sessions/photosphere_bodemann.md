@@ -4,14 +4,14 @@
 
 *What is a Photosphere? 
 *How to generate?
- - low quality image of google phone
- - Camera one 360 
- - Use blender 
- - Chance metainformation of an jpeg
- -Live coding with blender
+ - annoying way of creating a photosphere using an Android phone and the Google Photo App
+ - Camera from LG/Samsung/Ricoh
+ - Use blender and Cycles Renderer
+ - Change meta information (exif) of an jpeg
+ - live demo with Blender and Android Studio
  
  
 *What to do with a Photospehere
  - "Little Planet" Pictures
- -Apps (Speaker shows code in Android Studio)
- 
+ - Apps (Speaker shows code in Android Studio)
+ - Fun
