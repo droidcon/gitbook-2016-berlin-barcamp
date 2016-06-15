@@ -8,6 +8,8 @@
   * [15 tips to improve your unit tests](sessions/unit_tests_danny_preussler.md)
   * [Cognitive APIs, Emotions](microsoft_workshop1.md)
   * [Photospheres](sessions/photosphere_bodemann.md)
+  * [Android App Inventor](sessions/appinventor_rolf.md)
+  * [Multi Window](sessions/multiwindow_support.md)
 * [Rapid Demos](rapid_demos.md)
 * [App World Cafe](app_world_cafe.md)
 * [Mobility Area](area_mobility.md)
