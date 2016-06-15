@@ -10,3 +10,10 @@ Speaker: Daniel Molinero Reguera
 Slides: [Presentation](dependency_injection_toothpick.pdf)
 
 Toothpick repository: [Github](https://github.com/stephanenicolas/toothpick)
+
+# Q&A
+
+* Toothpick will remain under the Apache 2 license
+* Library encourages application or activity instead of contex injection
+* Footprint on the app is not clear yet, as it has only been released two weeks ago
+* It is possible to annotate all kinds of providers, even in a lazy way
