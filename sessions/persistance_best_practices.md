@@ -6,14 +6,14 @@
 ###SQLite
   
   + Users: 40%
--Positive:
+Positive:
   + Toolchain, DB browser
   + No dependecies
   + Self made schema, under
   + more control, SQL queries 
   + debugable data(base)
   + CP Loaders
--Negative:
+Negative:
   - biolerplate code
   - reinventing the wheel(tools do the work alredy)
   - need to write layer for CP
@@ -31,21 +31,21 @@
   
   + Examples: greenDAO, DBflow, ORMlite
 
--Positive:  
+Positive:  
   + biolerplate code
   + reinventing the wheel(tools do the work alredy)
   + no compile time checks
   + sql is another language
   + sql can get so long
   
--Negative:
+Negative:
   - another lib you have to learn
   - potentially performance decrease
   
 ###NoSQL
   + Users: about 4%
   
--Positive: 
+Positive: 
   + no orm 
   + rx support
   + docs
