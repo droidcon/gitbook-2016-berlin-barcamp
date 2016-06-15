@@ -9,6 +9,10 @@ Speaker: [Danny Preussler](https://github.com/dpreussler)
 
 Slides: [15 tips to improve your unit tests](Unittesting_tipps_preussler.pdf)
 
+# References
+
+https://github.com/dpreussler/SuperReflect
+
 # Feedback
 Very straight summary of general rules of writing JUnit Tests / Unit Tests. Definitely needs more cats! 
 @FHoeborn
