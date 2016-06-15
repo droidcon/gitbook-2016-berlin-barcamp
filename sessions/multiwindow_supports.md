@@ -11,5 +11,4 @@
   + New activity methods
   + Testing 
   + Resize of window creates configuration change event for app
-  + Layout for app is automatically selected depending on the window siez
-  
+  + Layout for app is automatically selected depending on the window size
