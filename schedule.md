@@ -6,7 +6,7 @@ Time | Stage 1 | Stage 2 | Room 3 |  Workshop |
 11:00  | [Say Kotlin one more time](sessions/kotlin_hendrik_kokocinski.md)|[Photospheres](sessions/photosphere_bodemann.md)|-|  
 11:30  | [Toothpick & dependency injection](toothpick.md)|[OR Mapper](sessions/or_mapper.md)|[Design](sessions/design_jonathan.md)| 
 12:00  | [Toothpick & dependency injection](toothpick.md)|[Persistence Best practices](sessions/persistance_best_practices.md)|[#mySPIN ConnectedCar](myspin.md)| 
-12:30  | [15 tips to improve your unit tests](sessions/unit_tests_danny_preussler.md)| [Multi Window](sessions/multi_window.md)|| 
+12:30  | [15 tips to improve your unit tests](sessions/unit_tests_danny_preussler.md)| [Multi Window](sessions/multiwindow_supports.md)|| 
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:30  | BREAK     | BREAK | BREAK | BREAK 
 14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|Sec. Dev. & Rock'n'Roll - Talking about security|[Android App Inventor](app_inventor.md)| [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
