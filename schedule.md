@@ -3,10 +3,10 @@
 Time | Stage 1 | Stage 2 | Room 3 |  Workshop | 
 -----|--------|---------|---------|---------
 10:00  | Welcome, [App World Cafe](app_world_cafe.md) and Session Planning | - |  | 10:30 [Cognitive APIs, Emotions - 2.5h](microsoft_workshop1.md)
-11:00  | Barcamp Talk: [Say Kotlin one more time](sessions/kotlin.md)| Barcamp Talk: [Photoshperes] (sessions/photosphere_bodemann.md) | |  
-11:30  | Barcamp Talk: [Toothpick & dependency injection](sessions/toothpick.md)| Barcamp Talk: OR Mapper | | 
-12:00  | Barcamp Talk: [Toothpick & dependency injection](sessions/toothpick.md)| Barcamp Talk: Persistence Best Practice || 
-12:30  | Barcamp Talk: [15 tips to improve your unit tests](sessions/unit_tests.md)| Barcamp Talk: Multi Window | |  
+11:00  | [Say Kotlin one more time](sessions/kotlin.md)| [Photoshperes](sessions/photosphere_bodemann.md) | |  
+11:30  | [Toothpick & dependency injection](sessions/toothpick.md)| OR Mapper | | 
+12:00  | [Toothpick & dependency injection](sessions/toothpick.md)| Persistence Best Practice || 
+12:30  | [15 tips to improve your unit tests](sessions/unit_tests.md)| Multi Window | |  
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:30  | BREAK     | BREAK | BREAK | BREAK 
 14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|  || [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
