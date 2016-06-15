@@ -1,9 +1,9 @@
-#h2 Photospheres
+#Photospheres
 
-#h3 Speaker: Mario Bodemann
+# Speaker: Mario Bodemann
 
-+What is a Photosphere? 
-+How to generate?
+*What is a Photosphere? 
+*How to generate?
  - low quality image of google phone
  - Camera one 360 
  - Use blender 
@@ -11,7 +11,7 @@
  -Live coding with blender
  
  
-+What to do with a Photospehere
+*What to do with a Photospehere
  - "Little Planet" Pictures
  -Apps (Speaker shows code in Android Studio)
  
