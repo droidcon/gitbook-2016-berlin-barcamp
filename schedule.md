@@ -2,8 +2,9 @@
 
 Time | Stage 1 | Stage 2 |  Workshop | 
 -----|--------|---------|---------|---------
-10:00  | Welcome, [App World Cafe](app_world_cafe.md) and Session Planning | - | 10:30 [Cognitive APIs, Emotions - 2.5h](microsoft_workshop1.md)
-11:00  | | |  
+10:00  | Welcome, [App World Cafe](app_world_cafe.md) and Session Planning | - | 
+10:30  | Barcamp Talk: [Say Kotline one more time](sessions/kotlin_hendrik_kokocinski.md)  | - | [Cognitive APIs, Emotions - 2.5h](microsoft_workshop1.md)
+11:00  |  | |  
 11:30  | | | 
 12:00  | | | 
 12:30  | | |  
