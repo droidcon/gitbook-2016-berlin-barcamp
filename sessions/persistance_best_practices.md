@@ -1,55 +1,57 @@
 ##Persistance best practices
 ### Speaker: Markus Junginger 
 
--What do you do with Persistance?
 
-###SQLite
+####SQLite
   
-  + Users: 40%
-+Positive:
+  + Users in the audience: 40%
+   
+Positive:
   + Toolchain, DB browser
   + No dependecies
   + Self made schema, under
-  + more control, SQL queries 
-  + debugable data(base)
+  + More control, SQL queries 
+  + Debugable data(base)
   + CP Loaders
-+Negative:
-  - biolerplate code
-  - reinventing the wheel(tools do the work alredy)
-  - need to write layer for CP
-  - no compile time checks
-  - manual schema updates
-  - maintanance 
+  
+Negative:
+  - Biolerplate code
+  - Reinventing the wheel(tools do the work alredy)
+  - Need to write layer for CP
+  - No compile time checks
+  - Manual schema updates
+  - Maintanance 
   - SQL is another language
   - SQL can get so long
-  - testality
-  
- ###ORMs
+  - Testality
 
-  + Objects Related Mapper
-  + Users: 10%
+####ORMs
+
+  + Objects Relational Mapper
+  + Users in the audience: 10%
   
   + Examples: greenDAO, DBflow, ORMlite
 
-+Positive:  
-  + biolerplate code
-  + reinventing the wheel(tools do the work alredy)
-  + no compile time checks
-  + sql is another language
-  + sql can get so long
+Positive:  
+  + Biolerplate code
+  + Reinventing the wheel(tools do the work alredy)
+  + No compile time checks
+  + SQL is another language
+  + SQL can get so long
   
-+Negative:
-  - another lib you have to learn
-  - potentially performance decrease
+Negative:
+  - Another lib you have to learn
+  - Potentially performance decrease
   
-###NoSQL
-  + Users: about 4%
+
+####NoSQL
+  + Users in the audience: 4%
   
-+Positive: 
-  + no orm 
-  + rx support
-  + docs
-  + tools 
+Positive: 
+  + No ORM 
+  + RX support
+  + Nice docs
+  + Nice tools 
   
   
   
