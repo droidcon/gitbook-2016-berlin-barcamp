@@ -12,6 +12,7 @@ Slides: [15 tips to improve your unit tests](Unittesting_tipps_preussler.pdf)
 # References
 
 https://github.com/dpreussler/SuperReflect
+https://github.com/stephanenicolas/boundbox
 
 # Feedback
 Very straight summary of general rules of writing JUnit Tests / Unit Tests. Definitely needs more cats! 
