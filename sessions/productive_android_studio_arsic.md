@@ -10,3 +10,10 @@ Combined lessons learned from different articles around the web and two great ta
 Speaker: [Marko Arsic](http://marsic.info/)
 
 Slides: [Android Studio Productivity](sessions/productive_android_studio_arsic.pdf)
+
+## Plugins
+
+* ADB Idea
+* ADBWiFi - debug android app over Wi-Fi
+* Inner Builder - adds a 'Builder' action to the Generate menu
+* Android Parcelable code generator - generates an Android Parcelable implementation based on fields in the class
