@@ -10,7 +10,7 @@ Time | Stage 1 | Stage 2 | Room 3 |  Workshop |
 13:00  | BREAK     | BREAK | BREAK | BREAK 
 13:30  | BREAK     | BREAK | BREAK | BREAK 
 14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|[Sec. Dev. & Rock 'n' Roll - Talking about security] (sessions/sec_dev_rock_roll.md)|[Android App Inventor](sessions/appinventor_rolf.md)| [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
-14:30  | [Android Studio productivity - lessons learned](android_studio.md)|NDK Best Practices - Knowledge Exchange|[Android App Inventor](sessions/appinventor_rolf.md)|-|  
+14:30  | [Android Studio productivity - lessons learned](sessions/productive_android_studio_arsic.md)|NDK Best Practices - Knowledge Exchange|[Android App Inventor](sessions/appinventor_rolf.md)|-|  
 15:00  | [Internet of Things - still hot?](iot.md)| Team Collaboration - Best Practices|The state of the Open Android Ecosystem|
 15:30  | [User Testing](sessions/user_testing.md)|In App Billing|-|
 16:00  | [How to deal with legacy apps & android compability?](legacy.md)|WebRTC|It's always your fault|
