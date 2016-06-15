@@ -5,7 +5,8 @@
 
 ###SQLite
   
-  + Users: 40%
+   Users: 40%
+   
 Positive:
   + Toolchain, DB browser
   + No dependecies
@@ -13,6 +14,7 @@ Positive:
   + more control, SQL queries 
   + debugable data(base)
   + CP Loaders
+  
 Negative:
   - biolerplate code
   - reinventing the wheel(tools do the work alredy)
