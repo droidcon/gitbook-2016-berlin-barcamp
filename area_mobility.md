@@ -1,5 +1,5 @@
 #droidcon Mobility Area
-
+ 
 Mobility area in partnership with Berlin Partner.
 
 Bosch, Berlin Partner, Fraunhofer FOKUS, Volkswagen, Embedeers, lesswire and High Mobility were there and presented their visions for a more intelligent, connected future of mobility. 
