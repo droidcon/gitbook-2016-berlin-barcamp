@@ -7,6 +7,6 @@ You will see that a toothpick is sharper than a dagger!
 
 Speaker: Daniel Molinero Reguera
 
-Slides: 
+Slides: [Presentation](dependency_injection_toothpick.pdf)
 
 Toothpick repository: [Github](https://github.com/stephanenicolas/toothpick)
