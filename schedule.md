@@ -12,7 +12,7 @@ Time | Stage 1 | Stage 2 | Room 3 |  Workshop |
 14:00  | [MVVM & RxJava - The perfect mix](mvvm.md)|[Sec. Dev. & Rock'n'Roll - Talking about security] (sessions/sec_dev_rock_roll.md)|[Android App Inventor](app_inventor.md)| [Cognitive APIs, Speech - 2.5h](microsoft_workshop2.md) 
 14:30  | [Android Studio productivity - lessons learned](android_studio.md)||[Android App Inventor](app_inventor.md)|-|  
 15:00  | [Internet of Things - still hot?](iot.md)| | |
-15:30  | [User Testing](user_testing.md)| | |
+15:30  | [User Testing](sessions/user_testing.md)| | |
 16:00  | [How to deal with legacy apps & android compability?](legacy.md)| | |
 16:30  | [Rapid Demo Session](rapid_demos.md)| - | - | -  
 17:00  | Barcamp Closing        | - | - | -
