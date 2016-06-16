@@ -9,6 +9,7 @@
   * [It is always your fault](sessions/its_always_your_fault_jakubczyk.md)
   * [Say Kotlin one more time](sessions/kotlin_hendrik_kokocinski.md)   
   * [Legacy Apps](sessions/legacy_apps.md)
+  * [Memory Leaks Tips](sessions/memory-leaks-tip.md)
   * [MMVM and RxJava](sessions/mmvm_and_rxjava_muntenescu.md)
   * [Multi Window](sessions/multiwindow_supports.md)
   * [OR mapper](sessions/or_mapper.md)
