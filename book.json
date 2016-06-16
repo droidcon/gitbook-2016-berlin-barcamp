@@ -6,6 +6,6 @@
         "edit-link": {
                 "base": "https://github.com/droidcon/gitbook-2016-berlin-barcamp/edit/master/",
                 "label": "Edit This Page"
-            }
+        }
     }
 }
