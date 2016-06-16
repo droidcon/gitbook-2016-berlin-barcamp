@@ -12,6 +12,7 @@
   * [MMVM and RxJava](sessions/mmvm_and_rxjava_muntenescu.md)
   * [Multi Window](sessions/multiwindow_supports.md)
   * [OR mapper](sessions/or_mapper.md)
+  * [Persistence Best Practises](sessions/persistence.md)
   * [Photospheres](sessions/photosphere_bodemann.md)
   * [Android Studio productivity - lessons learned](sessions/productive_android_studio_arsic.md)
   * [Security](sessions/sec_dev_rock_roll.md)
