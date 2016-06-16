@@ -15,7 +15,7 @@
   * [Photospheres](sessions/photosphere_bodemann.md)
   * [Android Studio productivity - lessons learned](sessions/productive_android_studio_arsic.md)
   * [Security](sessions/sec_dev_rock_roll.md)
-  * [State of the Ecosystem](state_ecosystem_friedger_mueffke.md)
+  * [State of the Ecosystem](sessions/state_ecosystem_friedger_mueffke.md)
   * [Team Collaboration](sessions/team-collaboration.md)
   * [15 tips to improve your unit tests](sessions/unit_tests_danny_preussler.md)
   * [User Testing](sessions/user_testing_michel.md)
