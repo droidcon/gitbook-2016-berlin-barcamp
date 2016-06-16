@@ -1,4 +1,5 @@
 #In App Billing
+## Speaker: Maria Keller
 
 Aptoide is an Android Store looking to develop it's own SDK.The aim of this session is to discuss what are the challenges of SDKs and what are the best use cases of other in app billing solutions.
 
