@@ -7,4 +7,4 @@ I will also give you our answer for: is Rx a remedy for all ills and difficultie
 
 Speaker [Florina Muntenescu](https://github.com/florina-muntenescu)
 
-Slides:
+Slides: [MMVM and RxJava](mmvm_and_rxjava_muntenescu.pdf)
