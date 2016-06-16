@@ -5,6 +5,6 @@ There are several presenters in the session, each presenting to a small group. A
 The following demos were given:
 
 * [Alternative Apps - OpenIntents](https://github.com/openintents/alternative-apps-android)
-* IPFS on Android - ligi
+* [IPFS on Android - ligi](https://github.com/ligi/IPFSDroid)
 * Giny Pay - Alpar Szotyori
 * [Web Opac App - Raphael, Johan](https://github.com/opacapp/opacclient)
