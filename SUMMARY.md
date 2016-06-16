@@ -21,8 +21,8 @@
   * [User Testing](sessions/user_testing_michel.md)
   * [WebRTC](sessions/web_rtc.md)
 * Workshops
-  * [Cognitive APIs, Emotions](microsoft_workshop1.md)
-  * [Cognitive APIs, Speech](microsoft_workshop2.md)
+  * [Cognitive APIs, Emotions](workshop_microsoft1.md)
+  * [Cognitive APIs, Speech](workshop_microsoft2.md)
 * [Rapid Demos](rapid_demos.md)
 * [App World Cafe](app_world_cafe.md)
 * [Mobility Area](area_mobility.md)
